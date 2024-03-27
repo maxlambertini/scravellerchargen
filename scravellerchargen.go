@@ -21,6 +21,7 @@ type Scraveller struct {
 	Look   string
 	Skills map[string]int
 	Perks  map[string]int
+	Age    int
 }
 
 func NewScraveller() *Scraveller {
@@ -29,6 +30,7 @@ func NewScraveller() *Scraveller {
 	s.Look = "Human"
 	s.Skills = make(map[string]int)
 	s.Perks = make(map[string]int)
+	s.Age = 18
 	return &s
 }
 
@@ -53,6 +55,7 @@ func (s *Scraveller) RollNew() error {
 	s.Size = 3 + rand.Intn(6)
 	rolls := D4() + 1
 	for i := 0; i < rolls; i++ {
+		s.Age += 4 + rand.Intn(3)
 		h, dead := D10Dead()
 		if !dead {
 			s1 := Careers[h]
@@ -86,6 +89,7 @@ func (s *Scraveller) ToString() string {
 	builder.WriteString(fmt.Sprintf("Name: %s\n", s.Name))
 	builder.WriteString(fmt.Sprintf("Species: %s\n", s.Look))
 	builder.WriteString(fmt.Sprintf("Size: %d\n", s.Size))
+	builder.WriteString(fmt.Sprintf("Age: %d years\n", s.Age))
 
 	builder.WriteString("\n\nSkills\n------\n")
 	for k, v := range s.Skills {

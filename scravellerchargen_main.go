@@ -13,7 +13,7 @@ func main() {
 		s := NewScraveller()
 		err := s.RollNew()
 		if err == nil {
-			fmt.Println("\n\n----------------------------\n", s.ToString())
+			fmt.Printf("\n\n----------------------------\n%s", s.ToString())
 		} else {
 			fmt.Printf("\n\n%d is dead!\n", i)
 		}
