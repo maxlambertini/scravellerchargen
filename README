@@ -1,0 +1,11 @@
+You need the following font installed in your system, all of them available from Google Fonts:
+
+- ARSENAL (the whole font family)
+- Black Wolf font (available here: https://www.dafont.com/black-wolf.font , free for personal use )
+
+Then, you need to install typst (follow instruction from htts://typst.app ) and compile the source:
+
+`typst compile scraveller_eng.typ`
+
+
+
