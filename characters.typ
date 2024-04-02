@@ -1,13 +1,14 @@
 #set text(size: 10pt, font: "Chivo")
-#set page(paper:"a4",margin: 1.5cm, flipped: true)
+#set page(paper:"a4",margin: 1cm, flipped: true)
 #show heading.where(level: 1) : it => [
   #text(
-  font: "Black Wolf",
-  size: 18pt,
+  font: "Tomorrow",
+  weight: 800,
+  size: 16pt,
   it.body
   )
-  #v(6pt)
-]  
+  #v(6pt) 
+]   
 
 
 
@@ -16,7 +17,7 @@
 #set align(left)
 
 = #ch.name
-
+ 
 
 #grid(
   columns: (5fr,3fr),
@@ -86,10 +87,9 @@
 #let png(players) = {
    for player in players {
     character(player)
-    colbreak()
   }
 }
    
-#columns(3, gutter:6mm)[
+#columns(3, gutter:2cm)[
   #png(json("output.json"))
 ]

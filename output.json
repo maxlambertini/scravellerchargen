@@ -1,467 +1,443 @@
 [
   {
-    "name": "Anve Beusriorian",
-    "size": 3,
-    "species": "Terdiaresi (Humanoid with feline features)",
+    "name": "Isveve Esveor",
+    "size": 7,
+    "species": "Getevite (Humanoid with ursine features)",
     "skills": {
-      "Merc": 1,
-      "Pirate": 1,
-      "Scientist": 1
-    },
-    "currentProfession": "Pirate",
-    "perks": {
-      "Medium Weapon": 1
-    },
-    "age": 45
-  },
-  {
-    "name": "Bibira-Diteor Atarza",
-    "size": 8,
-    "species": "Ceertian (Genengineered human for zero-G env.)",
-    "skills": {
-      "Scout": 1,
-      "Tech": 1
-    },
-    "currentProfession": "Tech",
-    "perks": {
-      "Contact": 1
-    },
-    "age": 34
-  },
-  {
-    "name": "Najia Radcliffe",
-    "size": 4,
-    "species": "Human",
-    "skills": {
-      "Medic": 1,
-      "Smuggler": 3
+      "Pilot": 1,
+      "Smuggler": 2
     },
     "currentProfession": "Smuggler",
     "perks": {
-      "Contact": 1
+      "Hideout": 1
     },
-    "age": 42
+    "age": 40
   },
   {
-    "name": "Roberta Stern",
+    "name": "Juan Moutawakel",
     "size": 6,
     "species": "Human",
     "skills": {
       "Medic": 1,
-      "Tech": 1
-    },
-    "currentProfession": "Tech",
-    "perks": {
-      "Contact": 1
-    },
-    "age": 30
-  },
-  {
-    "name": "Enonlaian-Istian",
-    "size": 5,
-    "species": "Soberian (Genengineered human for very dry climates)",
-    "skills": {
-      "Pirate": 2,
-      "Scientist": 1,
-      "Smuggler": 2
-    },
-    "currentProfession": "Pirate",
-    "perks": {
-      "Contact": 2
-    },
-    "age": 53
-  },
-  {
-    "name": "Lan Khatabi",
-    "size": 4,
-    "species": "Human",
-    "skills": {
-      "Pilot": 1,
-      "Tech": 2
-    },
-    "currentProfession": "Tech",
-    "perks": {
-      "Money": 1
-    },
-    "age": 39
-  },
-  {
-    "name": "Inonriian Rizala",
-    "size": 8,
-    "species": "Ceertian (Genengineered human for zero-G env.)",
-    "skills": {
-      "Scientist": 1,
-      "Smuggler": 1
-    },
-    "currentProfession": "Smuggler",
-    "perks": {
-      "Hideout": 1
-    },
-    "age": 27
-  },
-  {
-    "name": "Zouabri Trivedi",
-    "size": 5,
-    "species": "Human",
-    "skills": {
-      "Merc": 1,
-      "Scout": 1,
-      "Tech": 2
-    },
-    "currentProfession": "Tech",
-    "perks": {
-      "Money": 1
-    },
-    "age": 42
-  },
-  {
-    "name": "Paschal Everly",
-    "size": 3,
-    "species": "Human",
-    "skills": {
-      "Merc": 2,
-      "Pilot": 2,
-      "Pirate": 1
-    },
-    "currentProfession": "Pilot",
-    "perks": {
-      "Contact": 1,
-      "Gadget": 1
-    },
-    "age": 50
-  },
-  {
-    "name": "Ritilan Aruszatiian",
-    "size": 5,
-    "species": "Isaneslese (Genengineered human for hi-G planets)",
-    "skills": {
-      "Merchant": 1,
-      "Smuggler": 1
-    },
-    "currentProfession": "Merchant",
-    "perks": {
-      "Hideout": 1
-    },
-    "age": 34
-  },
-  {
-    "name": "Kazuki Santoro",
-    "size": 8,
-    "species": "Human",
-    "skills": {
-      "Medic": 2,
-      "Pilot": 1,
+      "Pirate": 1,
       "Scientist": 1
     },
-    "currentProfession": "Medic",
-    "perks": {
-      "Money": 1
-    },
-    "age": 47
-  },
-  {
-    "name": "Qudira",
-    "size": 4,
-    "species": "Getevite (Humanoid with ursine features)",
-    "skills": {
-      "Merc": 1,
-      "Scientist": 1,
-      "Smuggler": 3
-    },
-    "currentProfession": "Smuggler",
-    "perks": {
-      "Gadget": 2
-    },
-    "age": 51
-  },
-  {
-    "name": "Ivan Valerio",
-    "size": 3,
-    "species": "Human",
-    "skills": {
-      "Pirate": 1,
-      "Tech": 1
-    },
     "currentProfession": "Pirate",
     "perks": {
-      "Contact": 1
-    },
-    "age": 32
-  },
-  {
-    "name": "Akrama Fernández",
-    "size": 7,
-    "species": "Human",
-    "skills": {
-      "Merchant": 1,
-      "Smuggler": 1
-    },
-    "currentProfession": "Smuggler",
-    "perks": {
-      "Contact": 1
-    },
-    "age": 30
-  },
-  {
-    "name": "Wang Bernard",
-    "size": 8,
-    "species": "Human",
-    "skills": {
-      "Merc": 1,
-      "Pilot": 1,
-      "Tech": 1
-    },
-    "currentProfession": "Merc",
-    "perks": {
-      "Money": 1
+      "Hideout": 1
     },
     "age": 38
   },
   {
-    "name": "Harper Orsini",
-    "size": 8,
-    "species": "Human",
-    "skills": {
-      "Scientist": 1,
-      "Tech": 1
-    },
-    "currentProfession": "Scientist",
-    "perks": {
-      "Money": 1
-    },
-    "age": 32
-  },
-  {
-    "name": "Leaza Atarzan",
+    "name": "Orgein Xeononle",
     "size": 5,
-    "species": "Getevite (Humanoid with ursine features)",
+    "species": "Vetebese (Genengineered human for hot environments)",
     "skills": {
-      "Merchant": 1,
-      "Pilot": 1,
+      "Pirate": 1,
+      "Scout": 1,
       "Tech": 1
     },
-    "currentProfession": "Pilot",
+    "currentProfession": "Pirate",
     "perks": {
       "Hideout": 1
     },
-    "age": 36
+    "age": 40
   },
   {
-    "name": "Scarlett Jardine",
-    "size": 6,
-    "species": "Human",
+    "name": "Lequena-Armaaza Malamaian",
+    "size": 7,
+    "species": "Terdiaresi (Humanoid with feline features)",
     "skills": {
-      "Merc": 1,
-      "Merchant": 1,
-      "Tech": 2
+      "Pilot": 1,
+      "Pirate": 1
     },
-    "currentProfession": "Tech",
+    "currentProfession": "Pilot",
     "perks": {
       "Gadget": 1
-    },
-    "age": 43
-  },
-  {
-    "name": "Alexis Pellegrino",
-    "size": 6,
-    "species": "Human",
-    "skills": {
-      "Merchant": 1,
-      "Scout": 2,
-      "Tech": 2
-    },
-    "currentProfession": "Tech",
-    "perks": {
-      "Hideout": 2
-    },
-    "age": 52
-  },
-  {
-    "name": "Anita Lucic",
-    "size": 7,
-    "species": "Human",
-    "skills": {
-      "Merchant": 1,
-      "Pilot": 1,
-      "Tech": 1
-    },
-    "currentProfession": "Pilot",
-    "perks": {
-      "Hideout": 1
-    },
-    "age": 34
-  },
-  {
-    "name": "Edre Mariarian",
-    "size": 6,
-    "species": "Isaneslese (Genengineered human for hi-G planets)",
-    "skills": {
-      "Merchant": 1,
-      "Pilot": 1
-    },
-    "currentProfession": "Pilot",
-    "perks": {
-      "Money": 1
     },
     "age": 30
   },
   {
-    "name": "Matthieu Roussel",
-    "size": 7,
+    "name": "Gianna Balenovic",
+    "size": 5,
     "species": "Human",
     "skills": {
-      "Merc": 2,
       "Merchant": 1,
-      "Scout": 1
-    },
-    "currentProfession": "Merc",
-    "perks": {
-      "Contact": 1
-    },
-    "age": 42
-  },
-  {
-    "name": "Arriesen Rebia'Ian Cebiledi",
-    "size": 4,
-    "species": "Vetebese (Genengineered human for hot environments)",
-    "skills": {
-      "Scientist": 1,
-      "Smuggler": 1
-    },
-    "currentProfession": "Smuggler",
-    "perks": {
-      "Money": 1
-    },
-    "age": 28
-  },
-  {
-    "name": "Emi Jovanovic",
-    "size": 3,
-    "species": "Human",
-    "skills": {
-      "Merc": 1,
       "Tech": 1
     },
-    "currentProfession": "Tech",
+    "currentProfession": "Merchant",
     "perks": {
-      "Medium Weapon": 1
-    },
-    "age": 28
-  },
-  {
-    "name": "Clara Lucic",
-    "size": 7,
-    "species": "Human",
-    "skills": {
-      "Merchant": 1,
-      "Pilot": 2
-    },
-    "currentProfession": "Pilot",
-    "perks": {
-      "Contact": 1
+      "Gadget": 1
     },
     "age": 35
   },
   {
-    "name": "Cetiisquan-Aronarian Edle",
-    "size": 6,
-    "species": "Soberian (Genengineered human for very dry climates)",
+    "name": "Angèle Katzev",
+    "size": 4,
+    "species": "Human",
     "skills": {
-      "Scientist": 2,
-      "Scout": 2,
+      "Merchant": 1,
+      "Scout": 3,
       "Tech": 1
     },
     "currentProfession": "Scout",
     "perks": {
       "Gadget": 1,
-      "Money": 1
+      "Hideout": 1
     },
-    "age": 47
+    "age": 57
   },
   {
-    "name": "Hiroki Rutherford",
-    "size": 8,
-    "species": "Human",
-    "skills": {
-      "Merchant": 1,
-      "Pilot": 1
-    },
-    "currentProfession": "Merchant",
-    "perks": {
-      "Gadget": 1
-    },
-    "age": 36
-  },
-  {
-    "name": "Genesis Dyachenko",
+    "name": "Kicham Petersen",
     "size": 7,
     "species": "Human",
     "skills": {
       "Merc": 1,
-      "Scout": 2,
-      "Tech": 1
+      "Pilot": 1
     },
-    "currentProfession": "Scout",
+    "currentProfession": "Pilot",
     "perks": {
-      "Gadget": 1
+      "Hideout": 1
     },
-    "age": 48
+    "age": 29
   },
   {
-    "name": "Kendric Toribio",
-    "size": 3,
-    "species": "Human",
+    "name": "Erxesoan-Leenor",
+    "size": 7,
+    "species": "Ceertian (Genengineered human for zero-G env.)",
     "skills": {
-      "Merc": 1,
-      "Smuggler": 1
+      "Scout": 1,
+      "Smuggler": 2
     },
     "currentProfession": "Smuggler",
     "perks": {
       "Gadget": 1
     },
-    "age": 28
+    "age": 35
   },
   {
-    "name": "Luis Dubravka",
+    "name": "Uslese Qubeen",
+    "size": 7,
+    "species": "Xevexian (Multi-limbed insectoid)",
+    "skills": {
+      "Merc": 1,
+      "Pirate": 1,
+      "Scientist": 3
+    },
+    "currentProfession": "Scientist",
+    "perks": {
+      "Contact": 1,
+      "Money": 1
+    },
+    "age": 51
+  },
+  {
+    "name": "Zahra Jarni",
+    "size": 7,
+    "species": "Human",
+    "skills": {
+      "Scientist": 1,
+      "Scout": 2
+    },
+    "currentProfession": "Scout",
+    "perks": {
+      "Hideout": 1
+    },
+    "age": 44
+  },
+  {
+    "name": "Xue Qureshi",
+    "size": 7,
+    "species": "Human",
+    "skills": {
+      "Medic": 2,
+      "Merchant": 1,
+      "Tech": 1
+    },
+    "currentProfession": "Medic",
+    "perks": {
+      "Medium Weapon": 1
+    },
+    "age": 47
+  },
+  {
+    "name": "Onriraian Labiar Edtixeen",
+    "size": 3,
+    "species": "Soberian (Genengineered human for very dry climates)",
+    "skills": {
+      "Pirate": 1,
+      "Scientist": 1
+    },
+    "currentProfession": "Scientist",
+    "perks": {
+      "Medium Weapon": 1
+    },
+    "age": 33
+  },
+  {
+    "name": "Laura Calabrese",
     "size": 8,
     "species": "Human",
     "skills": {
+      "Medic": 1,
+      "Merc": 2,
+      "Pilot": 1
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Money": 1
+    },
+    "age": 45
+  },
+  {
+    "name": "Eninrese Atmaa",
+    "size": 6,
+    "species": "Terdiaresi (Humanoid with feline features)",
+    "skills": {
+      "Medic": 1,
+      "Merchant": 1,
+      "Tech": 1
+    },
+    "currentProfession": "Medic",
+    "perks": {
+      "Money": 1
+    },
+    "age": 37
+  },
+  {
+    "name": "Zaonbi Aanan",
+    "size": 6,
+    "species": "Raatbie (Amphibian humanoid)",
+    "skills": {
+      "Merc": 3
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Hideout": 1
+    },
+    "age": 34
+  },
+  {
+    "name": "Cerexe Cexece",
+    "size": 3,
+    "species": "Edonedite (Humanoid with reptilian features)",
+    "skills": {
+      "Pirate": 1,
+      "Smuggler": 1,
+      "Tech": 1
+    },
+    "currentProfession": "Smuggler",
+    "perks": {
+      "Money": 1
+    },
+    "age": 36
+  },
+  {
+    "name": "Ordimaian Enanar",
+    "size": 8,
+    "species": "Vetebese (Genengineered human for hot environments)",
+    "skills": {
+      "Merc": 3,
       "Pilot": 1,
+      "Smuggler": 1
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Contact": 1,
+      "Gadget": 1
+    },
+    "age": 53
+  },
+  {
+    "name": "Biceri Teveriat",
+    "size": 4,
+    "species": "Raatbie (Amphibian humanoid)",
+    "skills": {
+      "Medic": 1,
+      "Merc": 1,
+      "Merchant": 1
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Hideout": 1
+    },
+    "age": 43
+  },
+  {
+    "name": "Belaouf Northumberland",
+    "size": 7,
+    "species": "Human",
+    "skills": {
+      "Merc": 1,
+      "Pilot": 1
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Money": 1
+    },
+    "age": 35
+  },
+  {
+    "name": "Orrionti Legeesian Tiuson",
+    "size": 3,
+    "species": "Vetebese (Genengineered human for hot environments)",
+    "skills": {
+      "Pirate": 1,
+      "Tech": 1
+    },
+    "currentProfession": "Pirate",
+    "perks": {
+      "Hideout": 1
+    },
+    "age": 31
+  },
+  {
+    "name": "Edle-Qubibi Inteveon",
+    "size": 6,
+    "species": "Getevite (Humanoid with ursine features)",
+    "skills": {
+      "Merc": 1,
+      "Scientist": 2,
+      "Smuggler": 1
+    },
+    "currentProfession": "Scientist",
+    "perks": {
+      "Gadget": 1
+    },
+    "age": 46
+  },
+  {
+    "name": "Tionislan-Ineddien Soteri",
+    "size": 6,
+    "species": "Isaneslese (Genengineered human for hi-G planets)",
+    "skills": {
+      "Pilot": 1,
+      "Pirate": 1,
+      "Scientist": 1
+    },
+    "currentProfession": "Pilot",
+    "perks": {
+      "Contact": 1
+    },
+    "age": 36
+  },
+  {
+    "name": "Giuseppe Sudani",
+    "size": 4,
+    "species": "Human",
+    "skills": {
+      "Merchant": 1,
       "Pirate": 1
+    },
+    "currentProfession": "Pirate",
+    "perks": {
+      "Hideout": 1
+    },
+    "age": 31
+  },
+  {
+    "name": "Biesin Isoned",
+    "size": 4,
+    "species": "Raatbie (Amphibian humanoid)",
+    "skills": {
+      "Medic": 1,
+      "Pilot": 2,
+      "Smuggler": 1
+    },
+    "currentProfession": "Pilot",
+    "perks": {
+      "Medium Weapon": 1
+    },
+    "age": 49
+  },
+  {
+    "name": "Diquxeian",
+    "size": 7,
+    "species": "Vetebese (Genengineered human for hot environments)",
+    "skills": {
+      "Merc": 1,
+      "Scout": 1
+    },
+    "currentProfession": "Merc",
+    "perks": {
+      "Gadget": 1
+    },
+    "age": 27
+  },
+  {
+    "name": "Onatbeza Tecexe",
+    "size": 4,
+    "species": "Isaneslese (Genengineered human for hi-G planets)",
+    "skills": {
+      "Merchant": 1,
+      "Pilot": 1,
+      "Scientist": 1
+    },
+    "currentProfession": "Scientist",
+    "perks": {
+      "Medium Weapon": 1
+    },
+    "age": 44
+  },
+  {
+    "name": "Beraanxese Soxeorza Riraesian",
+    "size": 7,
+    "species": "Vetebese (Genengineered human for hot environments)",
+    "skills": {
+      "Merc": 1,
+      "Scientist": 1,
+      "Smuggler": 1
+    },
+    "currentProfession": "Scientist",
+    "perks": {
+      "Contact": 1
+    },
+    "age": 38
+  },
+  {
+    "name": "Zaatxe Ororquian",
+    "size": 3,
+    "species": "Getevite (Humanoid with ursine features)",
+    "skills": {
+      "Pilot": 1,
+      "Tech": 1
     },
     "currentProfession": "Pilot",
     "perks": {
       "Gadget": 1
     },
-    "age": 29
+    "age": 32
   },
   {
-    "name": "Zabeso-Anarlaquan Usedge",
-    "size": 7,
-    "species": "Raatbie (Amphibian humanoid)",
+    "name": "Esgeer",
+    "size": 5,
+    "species": "Vetebese (Genengineered human for hot environments)",
     "skills": {
-      "Medic": 1,
-      "Merc": 1,
-      "Pirate": 1
+      "Merchant": 3,
+      "Pirate": 1,
+      "Smuggler": 1
     },
-    "currentProfession": "Pirate",
+    "currentProfession": "Merchant",
     "perks": {
+      "Contact": 1,
       "Money": 1
     },
-    "age": 38
+    "age": 53
   },
   {
-    "name": "Zauseris Esustiian",
-    "size": 6,
-    "species": "Edonedite (Humanoid with reptilian features)",
+    "name": "Mia Santos",
+    "size": 5,
+    "species": "Human",
     "skills": {
-      "Merc": 1,
-      "Tech": 1
+      "Pilot": 1,
+      "Scientist": 2,
+      "Tech": 2
     },
     "currentProfession": "Tech",
     "perks": {
-      "Gadget": 1
+      "Contact": 1,
+      "Money": 1
     },
-    "age": 28
+    "age": 49
   }
 ]

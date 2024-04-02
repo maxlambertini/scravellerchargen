@@ -51,7 +51,7 @@ Mayday, mayday… \
 #v(24pt)
 
 #let th(body) = {
-  set text(fill: rgb("#800000"), font: "Black Wolf",  size:14pt, weight: 700)
+  set text(fill: rgb("#800000"), font: "Tomorrow",  size:13pt, weight: 800)
   [ #body ] 
 }
 
@@ -132,7 +132,7 @@ Everyone #st[ROLL 1d20]. Lowest scoring character is saddled by the starship mor
 #block[
     #set align(center)
     #set par(leading: 6pt)
-    #set text(font:"Black Wolf", size:18pt, fill: rgb("#800000"))
+    #set text(font:"Tomorrow", size:18pt, weight: 800, fill: rgb("#800000"))
     NOW \ JUMP INTO  THE FREAKIN'  HYPERSPACE, \ FOR F\*\*K'S SAKE!
 ]    
 #v(24pt)
@@ -141,30 +141,42 @@ Everyone #st[ROLL 1d20]. Lowest scoring character is saddled by the starship mor
 #scraveller-logo
 
 #let th(body) = {
-  set text(fill: rgb("#800000"), font: "Black Wolf",  size:12pt, weight: 700)
+  set text(fill: rgb("#800000"), font: "Tomorrow",  size:12pt, weight: 800)
   [ #body ] 
 }
 #set text(lang: "en", size: 9pt)
 
-#v(1fr)
+#v(12pt)
 
+#block(width: 100%, [
+  #set align(center)
+  #set text(fill: rgb("#800000"), font: "Tomorrow",  size:16pt, weight: 800)
+  Sentients of the Known Universe
+])
+
+#v(24pt)
 
 #grid(
-  columns: (1fr, 1fr),
-  gutter: 5mm,
+  columns: (1fr, 1fr, 1fr),
+  gutter: 2mm,
   [ #image("pics/insettone01.jpeg",width: 100%) ],
   [ #image("pics/scientist01.jpeg",width: 100%) ],
   [ #image("pics/scout02.jpeg",width: 100%) ],
   [ #image("pics/spacescout.jpeg",width: 100%) ], 
+  [ #image("pics/pilota_01.jpg",width: 100%) ],
+  [ #image("pics/pirata_01.jpg",width: 100%) ],
+  [ #image("pics/pirata_02.jpg",width: 100%) ],
+  [ #image("pics/scout_04.jpg",width: 100%) ], 
+  [ #image("pics/tech05.jpg",width: 100%) ], 
 )
 
+#v(24pt)
 
 
-#v(1fr)
+#set text(size: 11pt)
+*Humans started spreading in the Known Universe more than three millennia ago*, and soon met other kind of sentients, some starfaring, some other not. First contacts were sometimes peaceful and uneventful, but usually led to strife and conflicts. While humans have learned to live among the "aliens", traces of past wars still remain.  Moreover, humans themselves tinkered with their own DNA and soon generated their own related but different species: related enough to be somewhat interfertile, distinct enough to resemble something... other. These are the most notable species populating the Known Universe.
 
-#th[Species]. Humans started spreading in the 'verse more than three millennia ago, and soon met other starfaring species. With some of them contact was peaceful and uneventful; with some others, it led to conflicts. Moreover, humans themselves tinkered with their own DNA and soon generated their own related but different species: related enough to be interfertile (with some help), distinct enough to resemble something... other. These are the most notable ones.
-
-#colbreak()
+#set text(size: 9pt)
 
 #th[Baseline Humans] Direct, unprocessed descendants of the _homo sapiens_ stock. Granted, centuries of slightly different gravities, suns, day lenghts and radiation level forced different evolution paths that are being studies in a lot of universities, but from a biological standpoint of view baseline humans are still considered a species in itself. Politically most of baseline humans swear allegiance to the *Terran Hegemony* (a powerful but extremely conservative polity), but at least 20% of them set out to remote colonies outside the main polities in the local arm. 
 
@@ -174,7 +186,7 @@ Everyone #st[ROLL 1d20]. Lowest scoring character is saddled by the starship mor
 
 #th[Getevites] Bear-like folks hailing from *Getev*, a world near the Rasalhague Archeological Zone. They recently discovered how to crack lightspeed barrier, just to discover they were  hopelessly outnumbered by older interstellar polities. To make up for their scarce population, they began a vast program of espionage disguised as commercial endeavors bent to acquire the highest tech at the lowest price. Don't be fooled by their dumb stare, since they are, on the average, one of the most intelligent and analytical species out there. Their wares are quite delicate and refined, though. 
 
-#th[Raatbies] *Raat'b* is a Super Earth-type planet currently part of the N-Human empire, and it is the home of Raatbies, amphibious smallish (1.4m) humanoids whose biological prowess is matched by no other species in the Known Universe. Being Raat'b an overpopulated world, and being Raatbies endowed by a burning curiosity, they spread into their known space at an alarming velocity, quickly filling a lot of scientific and scouting position in most multispecies polities. However, while adaptable, they tend to shun hot and dry world: being there even protected by a proper suit, hurts and slows them on a deep psychological level. 
+#th[Raatbies] *Raat'b* is a Super Earth-type planet currently part of the N-Human empire, and it is the home of Raatbies, amphibious smallish (1.4m) humanoids whose expertise in the field of biology is matched by no other species in the Known Universe. Being Raat'b an overpopulated world, and being Raatbies endowed by a burning curiosity, they spread into their known space at an alarming velocity, quickly filling a lot of scientific, medical and scouting positions in most multispecies polities. However, while adaptable, they tend to shun hot and dry world: being there even protected by a proper suit, hurts and slows them on a deep psychological level. 
 
 #th[Tiariceites] The *Tiaritz Federation* is the oldest known civilization in this sector. They visited Earth during the last ice age (still have pictures and movies). They are very jealous of their volume of space and while lacking innovation their tech is still so fearsome that no sane being considers travelling in their space without proper authorization. They can be met mostly in the Rasalhague Archeological Sector, which they control. They resemble an awful lot baseline humans... if you don't mind their extra pair of arms.  They are quite contemptful of younger starfaring races, and consider dealing with them a necessary but unpleasant evil. However, their inner calm and vast technical knowledge makes them prized member of any shipcrew. 
 
