@@ -1,7 +1,9 @@
 You need the following font installed in your system, all of them available from Google Fonts:
 
-- ARSENAL (the whole font family)
-- Black Wolf font (available here: https://www.dafont.com/black-wolf.font , free for personal use )
+- Arsenal (the whole font family)
+- Tomorrow (the whole font family)
+
+Both fonts are published under a Free License. 
 
 Then, you need to install typst (follow instruction from htts://typst.app ) and compile the source:
 
